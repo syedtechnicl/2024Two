@@ -1,5 +1,5 @@
 # 2024two
-this is my second reporesit <br>y
+this is my second reporesity
 </br>
 E-Commerce Websitess Project Overview This is a fully-functional e-commerce website built using modern web development technologies. The platform allows users to browse, search, add to cart, and purchase products, while also providing a comprehensive admin interface for managing the store’s products, orders, and users.
 
